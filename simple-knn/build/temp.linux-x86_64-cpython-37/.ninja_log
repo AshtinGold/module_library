@@ -1,0 +1,4 @@
+# ninja log v5
+0	5077	1730096990765236618	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/R6/E-D3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	3550a4e152430987
+0	9382	1730096995065176039	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/R6/E-D3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	6c7795d8cd75fe2e
+0	21809	1730097007495005537	/mnt/c2d9b23a-b03e-4fdb-82ad-59f039ec9e3e/intern/King_Hang/R6/E-D3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	bf78d184105c4e06
